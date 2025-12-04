@@ -7,4 +7,4 @@
 - Call center log files
 - Website forms.
 
-The management is frustrated. Data is stored in different formats.
+The management is frustrated. Data is stored in different formats. The reporting team manually compiles spreadsheets.
