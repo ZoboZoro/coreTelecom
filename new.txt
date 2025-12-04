@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-new readme
-a new test
-=======
-wrong file
->>>>>>> main
